@@ -9,3 +9,4 @@ A ESP32 based NFC spotifycontroller in a retrofutre design. The NFC-tag is on a 
 
 #Demo
 https://github.com/MegaBlackMB/Spotify-player/blob/main/Aufzeichnung%202026-07-07%20160801.mp4
+https://github.com/MegaBlackMB/Spotify-player/blob/main/Screenshot%202026-07-07%20153255.png
